@@ -1,0 +1,32 @@
+[
+    {
+        "ip": "192.168.1.100",
+        "attempts": 7,
+        "users_targeted": [
+            "root"
+        ],
+        "severity": "MEDIUM",
+        "mitre": "T1110 - Brute Force",
+        "timestamp": "2026-05-08T14:11:51.574693"
+    },
+    {
+        "ip": "45.33.32.156",
+        "attempts": 2,
+        "users_targeted": [
+            "admin"
+        ],
+        "severity": "LOW",
+        "mitre": "T1110 - Brute Force",
+        "timestamp": "2026-05-08T14:11:51.574728"
+    },
+    {
+        "ip": "172.16.0.50",
+        "attempts": 10,
+        "users_targeted": [
+            "test"
+        ],
+        "severity": "HIGH",
+        "mitre": "T1110 - Brute Force",
+        "timestamp": "2026-05-08T14:11:51.574736"
+    }
+]

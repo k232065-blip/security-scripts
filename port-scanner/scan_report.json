@@ -1,0 +1,15 @@
+{
+    "target": "127.0.0.1",
+    "open_ports": [
+        {
+            "port": 22,
+            "banner": "SSH-2.0-OpenSSH_10.2p1 Debian-6",
+            "timestamp": "2026-05-10T04:25:13.292000"
+        },
+        {
+            "port": 443,
+            "banner": "",
+            "timestamp": "2026-05-10T04:25:13.313031"
+        }
+    ]
+}

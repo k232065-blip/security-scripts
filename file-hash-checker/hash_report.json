@@ -1,0 +1,7 @@
+{
+    "file": "test_file2.txt",
+    "sha256": "60c8ef7329362e4ed2421bf78ae5bd31334d946b1897a1ecd7a5c6314b9e647a",
+    "virustotal": "https://virustotal.com/gui/file/60c8ef7329362e4ed2421bf78ae5bd31334d946b1897a1ecd7a5c6314b9e647a",
+    "timestamp": "2026-05-11T03:00:38.648650",
+    "mitre": "T1027 - Obfuscated Files or Information"
+}
