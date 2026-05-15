@@ -1,0 +1,112 @@
+{
+    "target": "google.com",
+    "timestamp": "2026-05-15T02:16:24.748107",
+    "total_found": 21,
+    "subdomains": [
+        {
+            "subdomain": "www.google.com",
+            "ip": "142.251.151.119",
+            "timestamp": "2026-05-15T02:16:21.723698"
+        },
+        {
+            "subdomain": "www.google.com",
+            "ip": "142.251.154.119",
+            "timestamp": "2026-05-15T02:16:21.723750"
+        },
+        {
+            "subdomain": "www.google.com",
+            "ip": "142.251.156.119",
+            "timestamp": "2026-05-15T02:16:21.723818"
+        },
+        {
+            "subdomain": "www.google.com",
+            "ip": "142.251.153.119",
+            "timestamp": "2026-05-15T02:16:21.723833"
+        },
+        {
+            "subdomain": "www.google.com",
+            "ip": "142.251.157.119",
+            "timestamp": "2026-05-15T02:16:21.723885"
+        },
+        {
+            "subdomain": "www.google.com",
+            "ip": "142.251.150.119",
+            "timestamp": "2026-05-15T02:16:21.723905"
+        },
+        {
+            "subdomain": "www.google.com",
+            "ip": "142.251.155.119",
+            "timestamp": "2026-05-15T02:16:21.723915"
+        },
+        {
+            "subdomain": "www.google.com",
+            "ip": "142.251.152.119",
+            "timestamp": "2026-05-15T02:16:21.723924"
+        },
+        {
+            "subdomain": "mail.google.com",
+            "ip": "142.250.202.5",
+            "timestamp": "2026-05-15T02:16:21.731377"
+        },
+        {
+            "subdomain": "admin.google.com",
+            "ip": "142.250.202.14",
+            "timestamp": "2026-05-15T02:16:21.907870"
+        },
+        {
+            "subdomain": "api.google.com",
+            "ip": "192.178.174.106",
+            "timestamp": "2026-05-15T02:16:23.628021"
+        },
+        {
+            "subdomain": "api.google.com",
+            "ip": "192.178.174.103",
+            "timestamp": "2026-05-15T02:16:23.628054"
+        },
+        {
+            "subdomain": "api.google.com",
+            "ip": "192.178.174.99",
+            "timestamp": "2026-05-15T02:16:23.628082"
+        },
+        {
+            "subdomain": "api.google.com",
+            "ip": "192.178.174.147",
+            "timestamp": "2026-05-15T02:16:23.628098"
+        },
+        {
+            "subdomain": "api.google.com",
+            "ip": "192.178.174.105",
+            "timestamp": "2026-05-15T02:16:23.628110"
+        },
+        {
+            "subdomain": "api.google.com",
+            "ip": "192.178.174.104",
+            "timestamp": "2026-05-15T02:16:23.628121"
+        },
+        {
+            "subdomain": "blog.google.com",
+            "ip": "142.250.202.105",
+            "timestamp": "2026-05-15T02:16:23.767365"
+        },
+        {
+            "subdomain": "shop.google.com",
+            "ip": "172.217.76.92",
+            "timestamp": "2026-05-15T02:16:23.921856"
+        },
+        {
+            "subdomain": "vpn.google.com",
+            "ip": "64.9.224.68",
+            "timestamp": "2026-05-15T02:16:24.247054"
+        },
+        {
+            "subdomain": "vpn.google.com",
+            "ip": "64.9.224.70",
+            "timestamp": "2026-05-15T02:16:24.247087"
+        },
+        {
+            "subdomain": "vpn.google.com",
+            "ip": "64.9.224.69",
+            "timestamp": "2026-05-15T02:16:24.247099"
+        }
+    ]
+}
